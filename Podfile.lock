@@ -1,0 +1,140 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - Bugly (2.5.0)
+  - DZNEmptyDataSet (1.8.1)
+  - GPUImage (0.1.7)
+  - HUPhotoBrowser (1.4.1):
+    - SVProgressHUD
+  - HXWeiboPhotoPicker (2.1.5):
+    - SDWebImage (~> 4.0)
+  - IQKeyboardManagerSwift (6.0.0)
+  - JCore (1.1.9)
+  - JPush (3.0.8):
+    - JCore (~> 1.1.7)
+  - Kingfisher (4.1.1)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.3)
+  - SDAutoLayout (2.2.0)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+  - SnapKit (4.0.0)
+  - SocketRocket (0.5.1)
+  - SVProgressHUD (2.2.5)
+  - TZImagePickerController (2.1.0)
+  - WechatOpenSDK (1.8.2)
+  - YBPopupMenu (1.1.2)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - ZYSuspensionView (0.2.2):
+    - ZYSuspensionView/LoginManager (= 0.2.2)
+    - ZYSuspensionView/SuspensionView (= 0.2.2)
+    - ZYSuspensionView/TestManager (= 0.2.2)
+  - ZYSuspensionView/LoginManager (0.2.2):
+    - ZYSuspensionView/SuspensionView
+  - ZYSuspensionView/SuspensionView (0.2.2)
+  - ZYSuspensionView/TestManager (0.2.2):
+    - ZYSuspensionView/SuspensionView
+
+DEPENDENCIES:
+  - AFNetworking (= 3.2.0)
+  - Bugly (= 2.5.0)
+  - DZNEmptyDataSet (= 1.8.1)
+  - GPUImage (= 0.1.7)
+  - HUPhotoBrowser (= 1.4.1)
+  - HXWeiboPhotoPicker (= 2.1.5)
+  - IQKeyboardManagerSwift (= 6.0.0)
+  - JPush (= 3.0.8)
+  - Kingfisher (= 4.1.1)
+  - Masonry (= 1.1.0)
+  - MBProgressHUD (= 1.1.0)
+  - MJExtension (= 3.0.13)
+  - MJRefresh (= 3.1.15.3)
+  - SDAutoLayout (= 2.2.0)
+  - SDCycleScrollView (= 1.75)
+  - SDWebImage (= 4.3.0)
+  - SnapKit (= 4.0.0)
+  - SocketRocket (= 0.5.1)
+  - TZImagePickerController (= 2.1.0)
+  - WechatOpenSDK (= 1.8.2)
+  - YBPopupMenu (= 1.1.2)
+  - YYKit (= 1.0.9)
+  - ZYSuspensionView (= 0.2.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Bugly
+    - DZNEmptyDataSet
+    - GPUImage
+    - HUPhotoBrowser
+    - HXWeiboPhotoPicker
+    - IQKeyboardManagerSwift
+    - JCore
+    - JPush
+    - Kingfisher
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDAutoLayout
+    - SDCycleScrollView
+    - SDWebImage
+    - SnapKit
+    - SocketRocket
+    - SVProgressHUD
+    - TZImagePickerController
+    - WechatOpenSDK
+    - YBPopupMenu
+    - YYKit
+    - ZYSuspensionView
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HUPhotoBrowser: 01f67aea823b71b6a8dd3501fe825aad7ab75c74
+  HXWeiboPhotoPicker: b389ed6a2f854270aa391c55591d0616a519c881
+  IQKeyboardManagerSwift: 624f128983eec795deacd50c1cd2f72664d13f08
+  JCore: 27598485098d0db99d2812cba048003457d08cfb
+  JPush: 9574d072cc37e93fa293ba69b43ce763c440943a
+  Kingfisher: 6793a473357b5dbee42b0068ef203fe8325f259e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TZImagePickerController: 917d7bb1218be33555673edc162c440992d865f8
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
+  YBPopupMenu: 6efb286385d95ba5f97c58b8464ec873645e8764
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  ZYSuspensionView: 4f8d2ac9edc3ba8434e546e08ec264bde7980144
+
+PODFILE CHECKSUM: 9b98af49c44cd1ebc6d786fc563f91a1590993d7
+
+COCOAPODS: 1.5.0
